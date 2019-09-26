@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics & Economics, University of Michigan, 2012
+* M.S. in Applied Economics, University of Michigan, 2013
+* Ph.D in Economics, Cornell University, 2020 (expected)
 
-Work experience
+Research Fields
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Macroeconomics(Monetary Economics), Public Finance, Natural Language Programming 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Working Paper
+======
+Financial Constraint, Firm Investment and Monetary Policy: A Textual Analysis (Job Market Paper)
+
+Work in Progress
+======
+Implications of Optimal Taxes for the Evolution of Wealth Inequality(with Maxim Troshkin)
+A Welfare Approach on Proxy Means Testing (with David Coady, IMF)
+
+Research Experience and Other Employment
+=====
+Summer 2018: Fund Internship Program, Fiscal Affairs Division, International Monetary Fund
+2018 - 2019: Research Assistant for Yifei Mao, School of Hotel and Administration, Cornell University
+2013 - 2014: Research Assistant for Mile Kimball, Department of Economics, University of Michigan
+
+Honors, Scholarships & Fellowships
+=====
+
+Conference and Presentations
+=====
+IMF Seminar, Fiscal Affairs Division, 2018
+Macro Lunch, Cornell University, 2017,2018,2019
+Macro Reading Group, 2017,2018,2019
+
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+=====
+Programming: Matlab, Stata, Python, Julia, LaTeX.
+Languages: Chinese (native), Cantonese(native), English (fluent)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Personal Information
+=====
+Citizenship: China
