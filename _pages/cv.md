@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics & Economics, University of Michigan, 2012
-* M.S. in Applied Economics, University of Michigan, 2013
 * Ph.D in Economics, Cornell University, 2020 (expected)
+* M.S. in Applied Economics, University of Michigan, 2013
+* B.S. in Applied Mathematics & Economics, University of Michigan, 2012
 
 Research Fields
 ======
