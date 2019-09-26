@@ -34,6 +34,15 @@ Research Experience and Other Employment
 * 2018 - 2019: Research Assistant for Yifei Mao, School of Hotel and Administration, Cornell University
 * 2013 - 2014: Research Assistant for Mile Kimball, Department of Economics, University of Michigan
 
+Teaching Experience
+=====
+* Introductory Microeconomics(Cornell University, Spring 2017)
+* Introductory Macroeconomics(Cornell University, Fall 2015, Spring 2018)
+* Intermediate Microeconomics(Cornell University, Spring 2019)
+* Intermediate Macroeconomics(Cornell University, Fall 2016)
+* Statistics and Probability(Cornell University, Fall 2017, Fall 2018, Fall 2019)
+* Applied Econometrics(Cornell, Spring 2016)
+
 Honors, Scholarships & Fellowships
 =====
 * Travel Grant, Cornell University, 2018
