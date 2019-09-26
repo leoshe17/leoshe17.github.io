@@ -36,10 +36,15 @@ Summer 2018: Fund Internship Program, Fiscal Affairs Division, International Mon
 
 Honors, Scholarships & Fellowships
 =====
+Travel Grant, Cornell University, 2018
+Sage Fellowship, 2014
+University Honors, University of Michigan, 2010, 2011
+China National Mathematics Competition 3rd Prize
+China National Physics Competition 1st Prize in Guangdong Province
 
 Conference and Presentations
 =====
-IMF Seminar, Fiscal Affairs Division, 2018
+Fiscal Affairs Seminar, International Monetary Fund, 2018
 Macro Lunch, Cornell University, 2017,2018,2019
 Macro Reading Group, 2017,2018,2019
 
