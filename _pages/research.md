@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-This is just a test file.
+Working Paper
+===
+Financial Constraint, Firm Investment and Monetary Policy: A Natural Language Programming Approach(_JMP_)
+~~~~
+The paper studies the role of financial constraints in the investment responses to monetary policy shock. We constructs a novel firm level financial constraint index from quarterly and annual report files using natural language programming model. The highly constrained firms measured from the index pay lower dividends, hold more cash, have higher leverage ratio and higher Tobin’q. Their investments are also more sensitive to cash flow changes. Finally, the investment responses to monetary policy shock are less for the firms that are more constrained.
+~~~~
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Work in Progress
+=====
+Implications of Optimal Taxes for the Evolution of Wealth Inequality (Work in Progress)
+A Welfare Approach on Proxy Means Testing (Work in Progress with David Coady, IMF)
