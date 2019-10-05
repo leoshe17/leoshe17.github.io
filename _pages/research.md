@@ -8,7 +8,7 @@ author_profile: true
 Working Paper
 ===
 Financial Constraint, Firm Investment and Monetary Policy Shock: A Natural Language Programming Approach(_JMP_, draft coming soon)
-> The paper studies the role of financial constraints in the investment responses to monetary policy shock. We constructs a novel firm level financial constraint index from quarterly and annual report files using natural language programming model. The highly constrained firms measured from the index pay lower dividends, hold more cash, have higher leverage ratio and higher Tobin’q. Their investments are also more sensitive to cash flow changes. Finally, the investment responses to monetary policy shock are less for the firms that are more constrained.
+> The paper studies the role of financial constraint in the distribution impact of monetary policy on firm investment. To accomplish it, we construct a novel firm level financial constraint index using the annual/quarterly reports with a deep learning model. The predicted financially constrained firm are smaller in size, pay less dividend, hold more cash and have higher debt to asset ratio and higher tobin's q. In the validity test, the investment of more constrained firms are also more sensitive to cash flow fluctuations. Finally, firms that are more constrained are less responsive to monetary policy shock in terms of investment responses. It implies that monetary policy has a disproportional lower impact on financially constrained firms and the aggregate investment channel of monetary policy may depend on the distribution of financial constrained level.
 
 Work in Progress
 =====
