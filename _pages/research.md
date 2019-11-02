@@ -8,10 +8,10 @@ author_profile: true
 Working Paper
 ===
 Financial Constraint, Firm Investment and Monetary Policy Shock: A Natural Language Programming Approach(_JMP_, draft coming soon)
-> The paper studies the role of financial constraint in the distribution impact of monetary policy on firm investment. To accomplish it, we construct a novel firm level financial constraint index using the annual/quarterly reports with a deep learning model. The predicted financially constrained firm are smaller in size, pay less dividend, hold more cash and have higher debt to asset ratio and higher tobin's q. In the validity test, the investment of more constrained firms are also more sensitive to cash flow fluctuations. Finally, firms that are more constrained are less responsive to monetary policy shock in terms of investment responses. It implies that monetary policy has a disproportional lower impact on financially constrained firms and the aggregate investment channel of monetary policy may depend on the distribution of financial constrained level.
+> My paper studies the role of financial constraints in the effects of monetary policy on firm investments. I construct a quarterly measure of financial constraints with SEC filings using a deep learning model which improves the prediction accuracy as compared to Naive Bayes method by capturing the context information such as grammatical structure and order of words. The highly constrained firms are younger, smaller, have higher liquidity ratio and higher leverage ratio. However, popular proxies of financial constraints often don't move monotonically with the level of financial constraints, especially for the liquidity ratio which is high for both the most constrained firms and the least constrained firms. Using the constructed measure of financial constraints, the investments of financially constrained firms are persistently less responsive to monetary policy shocks due to high marginal cost of external funds. My results shed light on previous empirical findings and argue that the seemingly contrary conclusions are, to some extent, consistent with each other.
 
 Work in Progress
 =====
-Implications of Optimal Taxes for the Evolution of Wealth Inequality (Work in Progress)
+Implications of Optimal Taxes for the Evolution of Wealth Inequality (Work in Progress with Maxim Troshkin)
 
 A Welfare Approach on Proxy Means Testing (Work in Progress with David Coady, IMF)
