@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[Download CV](https://www.dropbox.com/s/xa3yuqafkn756my/cv_yushe.pdf?dl=0)"
 permalink: /cv/
 author_profile: true
 redirect_from:
