@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Download CV](https://www.dropbox.com/s/xa3yuqafkn756my/cv_yushe.pdf?dl=0)"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Download CV](https://www.dropbox.com/s/xa3yuqafkn756my/cv_yushe.pdf?dl=0)
+=====
 
 Education
 ======
