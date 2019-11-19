@@ -13,5 +13,7 @@ Financial Constraints, Monetary Policy and Firm Investments: A Deep Learning App
 Work in Progress
 =====
 Implications of Optimal Taxes for the Evolution of Wealth Inequality (Work in Progress with Maxim Troshkin)
+> Quantifies counterfactual consequences of optimal dynamic taxation for inequality, within a computational model matching evolution of wealth and income distributions in the U.S. over five decades
 
 A Welfare Approach on Proxy Means Testing (Work in Progress with David Coady, IMF)
+> We propose a new proxy means tests with minimizing welfare loss as target instead of traditional targets, such as minimizing consumption loss. The new method reduces the inclusion error and the exclusion error. We compare the performances between our method and the traditional method using India household survey data.
