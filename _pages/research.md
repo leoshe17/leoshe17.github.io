@@ -7,7 +7,7 @@ author_profile: true
 
 Working Paper
 ===
-Financial Constraints, Monetary Policy and Firm Investments: A Deep Learning Approach (_JMP_, [Download](https://www.dropbox.com/s/p9pjsab02a4ie8y/JMP_YS.pdf?dl=0))
+Financial Constraints, Monetary Policy and Firm Investments: A Deep Learning Approach (_JMP_, [Download](https://www.dropbox.com/s/j9xekr6qu9os2au/JMP_YS.pdf?dl=0))
 > My paper studies the role of financial constraints in the effects of monetary policy on firm investments. I construct a quarterly textual measure of financial constraints from SEC filings using a deep learning model. It improves the prediction accuracy as compared to a Naive Bayes method by capturing the context information, such as grammatical structure and order of words. Firms classified as highly constrained are younger, smaller, have a higher liquidity ratio and higher leverage ratio. However, popular proxies of financial constraints often do not move monotonically with the level of financial constraints. Particularly for the liquidity ratio, it is high for both the least constrained firms, which have ample of cash, and the most constrained firms, which hoard cash due to precautionary saving motives and the high marginal cost of external capital. Using the constructed measure of financial constraints, the investments of financially constrained firms are persistently less responsive to monetary policy shocks due to high marginal cost of external funds. This implies that monetary policy would be less effective during crisis time due to a larger fraction of severely constrained firms. My results reconcile previous empirical findings and argue that the seemingly contrary conclusions are, to some extent, consistent with each other.
 
 Work in Progress
